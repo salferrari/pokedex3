@@ -12,6 +12,7 @@
 		58A2675B1DAD19810021F49D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58A267591DAD19810021F49D /* Main.storyboard */; };
 		58A2675D1DAD19810021F49D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58A2675C1DAD19810021F49D /* Assets.xcassets */; };
 		58A267601DAD19810021F49D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58A2675E1DAD19810021F49D /* LaunchScreen.storyboard */; };
+		58A267681DAD22490021F49D /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 58A267671DAD22490021F49D /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		58A2675C1DAD19810021F49D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58A2675F1DAD19810021F49D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58A267611DAD19810021F49D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58A267671DAD22490021F49D /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				58A267571DAD19810021F49D /* ViewController.swift */,
 				58A267591DAD19810021F49D /* Main.storyboard */,
 				58A2675C1DAD19810021F49D /* Assets.xcassets */,
+				58A267671DAD22490021F49D /* pokemon.csv */,
 				58A2675E1DAD19810021F49D /* LaunchScreen.storyboard */,
 				58A267611DAD19810021F49D /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				58A267601DAD19810021F49D /* LaunchScreen.storyboard in Resources */,
 				58A2675D1DAD19810021F49D /* Assets.xcassets in Resources */,
+				58A267681DAD22490021F49D /* pokemon.csv in Resources */,
 				58A2675B1DAD19810021F49D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				58A267661DAD19810021F49D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
